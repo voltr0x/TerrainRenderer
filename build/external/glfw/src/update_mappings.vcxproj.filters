@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\TerrainRenderer\build\CMakeFiles\86aebcd000d43240465ffaaad6779cd4\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\TerrainRenderer\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\TerrainRenderer\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\Projects\TerrainRenderer\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\Projects\TerrainRenderer\build\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0F3338DF-885F-3064-BCE9-238381A1A845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F6BD2D14-1D40-32FD-AC90-FA03E70D339F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
